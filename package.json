@@ -1,0 +1,27 @@
+{
+  "name": "usequery-react-hook",
+  "version": "1.0.0",
+  "description": "npm package for react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mnatsakanyan1996/usequery-react-hook.git"
+  },
+  "keywords": [
+    "react",
+    "react js",
+    "react hook",
+    "hook",
+    "query",
+    "useQuery"
+  ],
+  "author": "Mikayel Mnatsakanyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mnatsakanyan1996/usequery-react-hook/issues"
+  },
+  "homepage": "https://github.com/Mnatsakanyan1996/usequery-react-hook#readme"
+}
