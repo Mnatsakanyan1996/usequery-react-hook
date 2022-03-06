@@ -1,4 +1,5 @@
-# usequery-react-hook 📦 NPM Package for React js App
+# usequery-react-hook
+# 📦 NPM Package for React js App
 
 ## Installing usequery-react-hook
 
