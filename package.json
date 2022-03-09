@@ -1,6 +1,6 @@
 {
   "name": "usequery-react-hook",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "npm package for react app",
   "main": "index.js",
   "scripts": {
